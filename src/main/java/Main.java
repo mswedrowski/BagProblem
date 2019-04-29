@@ -1,4 +1,4 @@
-package firstTask;
+import firstTask.Solution;
 import general.Loader;
 import java.util.Scanner;
 
